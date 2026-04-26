@@ -5,7 +5,7 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid
 } from "recharts";
 
-const API = "http://localhost:3001/api";
+const API = "https://finsite-ai-backend.onrender.com/api";
 
 const COLORS = ["#00e5a0", "#7c6af7", "#f5a623", "#ff4d6d", "#00bcd4", "#e91e8c", "#8bc34a", "#ff9800"];
 
